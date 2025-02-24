@@ -9,7 +9,7 @@ public class FunRestController {
   // expose "/" that returns "Hello World!"
 	@GetMapping("/")
 	public String sayHello(){
-		return "Hello World!";
+		return "Hello World!!!!";
 	}
 	
 	//expose a endpoint for "/Workout"
